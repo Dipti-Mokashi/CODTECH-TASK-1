@@ -1,0 +1,738 @@
+.....index.html...
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Design Mastery |Dipti</title>
+    <link
+    href="https://cdn.jsdelivr.net/npm/remixicon@4.3.0/fonts/remixicon.css"
+    rel="stylesheet"
+/>
+<link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+    <nav>
+        <div class="nav_bar">
+            <a href="#"><span class="logo nav_logo">D</span>Dipti</a>
+            <div class="nav_menu_btn "id="menu_btn">
+                <i class="ri-menu-3-line"></i></i>
+            </div>
+        </div>
+        <ul class="nav_links"id= "nav_links">
+            <li><a href="#home">Home</a></li>
+
+            <li><a href="#about">About</a></li>
+
+            <li><a href="#Service">Service</a></li>
+
+            <li><a href="#port">Portfolio</a></li>
+
+            <li><a href="#contact" class="btn">Contact</a></li>
+
+        </ul>
+       
+        <a href="#contact" class="btn btn_large">Contact</a>
+    </nav>
+    <header class="section_container header_container"id="home">
+        <div class="header_image">
+            <img src="WhatsApp Image 2024-07-27 at 20.18.30_fef81fb3.jpg"alt="header">
+        </div>
+        <div class="header_content">
+            <div>
+                <h1>Dipti<br/>Front-end<br/>Developer</h1>
+            </div>
+            <p class="section_description">The front-end developers basically work for the visibility of the web application. Their code practices revolve around HTML, CSS, and JavaScript. 
+</p>
+<div class="header_btn">
+    <button class="btn">Hire Me Now</button>
+</div>
+        </div>
+    </header>
+<section class="section_container About_container"id="about">
+    <div class="about_image">
+       <!-- <img src="mock.jpg"alt="bg"class="about_bg-1">
+        <img src=""alt="bg"class="about_bg-2">-->
+        <img src="white.jpg"alt="about" class="about_img">
+    </div>
+    <div class="about_content">
+        <h2 class="section_header">Bit About Me</h2>
+        <p class="section_description "><pre>                                                                  </pre></p>I am writing to apply for the Front End Developer position at your company. I have recently graduated with a degree in Computer Science. I have learned a lot about coding and programming during my time at university. I have worked on some projects and I think I did a good job.
+        <pre>
+
+            </pre>
+       <a href="resume.jpg"> <button class="about_btn">Download CV</button></a>
+    </div>
+</section>
+<pre>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ </pre>
+
+
+<section class="section_container service_container"id="Service">
+ <h2 class="section_header">My Best Services</h2>  
+ <div class="Service_grid row">
+    <div class="Service_card col-3">
+        <span><i class="ri-window-fill"></i></span>
+        <h4>Website Design</h4>
+        <p>
+            Web designing is the process of planning, conceptualizing, and implementing the plan for designing a website in a way that is functional and offers a good user experience. User experience is central to the web designing process. Websites have an array of elements presented in ways that make them easy to navigate. </p>
+    </div>
+    <div class="Service_card col-3">
+        <span><i class="ri-smartphone-fill"></i></span>
+        <h4>Mobile Developement</h4>
+        <p>
+            Mobile application development is the process of creating software applications that run on a mobile device, and a typical mobile application utilizes a network connection to work with remote computing resources.        </p>
+    </div>
+    <div class="Service_card col-3">
+        <span><i class="ri-share-forward-line"></i></span>
+        <h4>Content-Marketing</h4>
+        <p>
+            Content marketing is a marketing strategy used to attract, engage, and retain an audience by creating and sharing relevant articles, videos, podcasts, and other media. This approach establishes expertise, promotes brand awareness, and keeps your business top of mind when it's time to buy what you sell.
+        </p>
+    </div>
+    <div class="Service_card">
+        <span><i class="ri-seo-line"></i></span>
+        <h4>SEO</h4>
+        <p>
+            One of those users is a search engine, which helps people discover your content. SEO—short for search engine optimization—is about helping search engines understand your content, and helping users find your site and make a decision about whether they should visit your site through a search engine.
+        </p>
+    </div>
+
+    <div class="Service_card">
+        <span><i class="ri-creative-commons-sa-line"></i></span>
+        <h4>Digital Marketing</h4>
+        <p>
+            Digital marketing, also called online marketing, is the promotion of brands to connect with potential customers using the internet and other forms of digital communication.
+        </p>
+    </div>
+</section>
+
+
+<section class="section_container Portfolio_container"id=port>
+    <h2 class="section_header">My Portfolio</h2>
+    <p class="section_description">A portfolio is a compilation of academic and professional materials that exemplifies your beliefs, skills, qualifications, education, training, and experiences. It provides insight into your personality and work ethic.</p>
+    <div class="Portfolio_grid">
+        <div class="Portfolio_card">
+            <img src="s1.jpeg"alt="portfolio" class="im">
+    </div>
+    <div class="Portfolio_card">
+    <img src="s2.jpeg"alt="portfolio" class="im">
+</div>
+<div class="Portfolio_card">
+<img src="s1.jpeg"alt="portfolio" class="im">
+</div>
+<div class="Portfolio_card">
+<img src="s2.jpeg"alt="portfolio" class="im">
+</div>
+<div class="Portfolio_card">
+<img src="s1.jpeg"alt="portfolio" class="im">
+</div>
+<div class="Portfolio_card">
+    <img src="s2.jpeg"alt="portfolio" class="im">
+    </div>
+</div> 
+<div class="portfolio_banner">
+    <div class="portfolio_banner_card">
+        <span><i class="1.jpeg"></i></span>
+        <h4>150+projects</h4>
+        <p>Delivered</p>
+    </div>
+    <div class="portfolio_banner">
+        <div class="portfolio_banner_card">
+            <span><i class="2.jpeg"></i></span>
+            <h4>1500+happy</h4>
+            <p>customers</p>
+        </div>
+        <div class="portfolio_banner">
+            <div class="portfolio_banner_card">
+                <span><i class="3.jpeg"></i></span>
+                <h4>2700+lovely</h4>
+                <p>feedbacks</p>
+            </div>
+</div>
+</section>
+<section class="section_container Contact_container"id="contact">
+<div class="logo">D</div>
+<h2 class="section_header">Let's Talk With Me</h2>
+<p class="section_description">I,m also available for any time.</p>
+<div class="contact_socials">
+    <a href="#"><i class="menu-line.svg"></i></a>
+    <a href="#"><i class="menu-line.svg"></i></a>
+    <a href="#"><i class="menu-line.svg"></i></a>
+    <a href="#"><i class="menu-line.svg"></i></a>
+    <a href="#"><i class="menu-line.svg"></i></a>
+</div>
+</section>
+<footer class="footer">
+    Copyright @ 2024 Web Design Mastery.All rights reserved.
+</footer>
+    <script src="https://unpkg.com/scrollreveal"></script>
+    <script src="main.js"></script>
+    
+</body>
+</html>
+
+
+....style.css....
+
+@import url('https://fonts.googleapis.com/css2?family=Kalnia+Glaze:wght@100..700&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+
+:root{
+    --primary-color:#e9615e;
+    --secondary-color:#ec9956;
+    --extra-light:#f3f4f6;
+    --white:#ffffff;
+    --gradient-1:linear-gradient(to bottom right,#62393c,#181e41);
+    --gradient-2:linear-gradient(to bottom,
+    var(--primary-color),
+    var(--secondary-color));
+    --max-width:1200px;
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.section_container{
+    max-width: var(--max-width);
+    margin: auto;
+    padding: 5rem 1rem;
+    
+}
+.section_header{
+    margin-bottom: 1rem;
+    font-size: 2rem;
+    font-weight: 700;
+    text-align: center;
+}
+.section_description{
+    max-width: 100%;
+    margin-inline:auto;
+    color: var(--extra-light);
+    text-align:right;
+    /*line-height: 1.90rem;*/
+
+
+
+}
+.btn{
+    padding: .75rem 1.5rem;
+    font-size: 1rem;
+    font-weight: 500;
+    color: var(--white);
+    background-image: var(--gradient-2);
+    outline: none;
+    border: none;
+    border-radius: 5rem;
+    cursor: pointer;
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.2);
+}
+img{
+    width:100px;
+    display: flex;
+}
+a{
+    text-decoration: none;
+}
+.logo{
+    display: inline-block;
+    padding: 10px 14px;
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--white);
+    background-image: var(--gradient-2);
+    border-radius: 100%;
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.2);
+}
+html,
+body{
+    scroll-behavior: smooth;
+}
+body{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: var(--white);
+    background-image: var(--gradient-1);
+}
+nav{
+    position: fixed;
+    isolation: isolate;
+    top:0;
+    width: 100%;
+    max-width: var(--max-width);
+    margin: auto;
+    z-index: 9;
+
+}
+.nav_bar{
+padding: 1rem;
+display: flex;
+align-items: center;
+justify-content: space-between;
+gap: 2rem;
+background-image: var(--gradient-1);
+}
+.nav_logo{
+    padding: 9px 12px;
+    font-size:1.2rem ;
+}
+.nav_bar a{
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: var(--white);
+
+}
+.nav_menu_btn{
+    font-size: 1.5rem;
+    color: var(--white);
+    cursor: pointer;
+}
+.nav_links{
+    list-style: none;
+    position: absolute;
+    width: 100%;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2rem;
+    background-image: var(--gradient-2);
+/*transform:translate(-100%) ;*/
+transition:.5s ;
+z-index: -1;
+
+}
+
+.nav_links.open{
+    transform: translateY(0);
+}
+
+.nav_links{
+    color: (--white);
+    transition: 0.3s;
+}
+.nav_links a:hover{
+    color: (var(--white));
+}
+.nav_links li a{
+    color: #ffffff;
+}
+
+.btn_large{
+    display: none;
+}
+.header_container{
+    padding-top: 8rem;
+    display:grid;
+    gap: 2rem;
+    isolation: isolate;
+}
+.header_content{
+    text-align:center ;
+}
+.header_content h1{
+    margin-bottom: 1rem;
+    font-size: 3rem;
+    text-align: center;
+
+}
+.header_content.section_description{
+    margin-bottom: 2rem;
+}
+.header_image{
+    position: relative;
+    isolation: isolate;
+    z-index:-1;
+
+}
+.header_image img{
+    max-width: 4500px;
+    margin-inline: auto;
+    border-radius: 25rem;
+    width: 30vw;
+    height: 40vw;
+    margin-top: 4rem;
+    animation: floatImage 4s ease-in-out infinite;
+}
+@keyframes floatImage
+{
+    0%{
+    transform: translateY(0);
+}
+50%{
+    transform: translateY(-2.4rem);
+}
+
+100%{
+    transform: translateY(0);
+}
+
+}
+.header_image::after{
+    position: absolute;
+    content:"Dipti" ;
+    letter-spacing: 1.5rem;
+    opacity: .5;
+    right: 1rem;
+    top: 50%;
+    transform: translate(50%,-50%)rotate(90deg);
+}
+.about_container{
+    display: grid;
+    gap: 2rem;
+}
+.about_image{
+    position: relative;
+    isolation: isolate;
+    max-width: 1500px;
+    height: 50px;
+    margin: auto;
+    opacity: 0.5;
+}
+.about_img{
+    border-radius:100%;
+    width: 20vw;
+    height: 20vw;
+    margin-top: 6rem;
+    opacity: 0.5;
+    
+
+
+}
+.about_bg-1,
+.about_bg-2{
+    position: absolute;
+    max-width: 150px;
+    z-index: -1;
+}
+.about_bg-1{
+    top: 0;
+    left: 0;
+
+}
+.about_bg-1{
+    right: 0;
+    bottom: 0;
+}
+.about_btn:hover{
+   color :red;
+}
+.about_content{
+    text-align: center;
+}
+.about_content.section_description{
+    margin-bottom: 2rem;
+}
+.about_container{
+    grid-template-columns: repeat(2,1fr);
+    align-items: center;
+}
+.about_content,
+.about_content:is(.section_header,.section_description){
+    text-align: center;
+}
+.Service_grid{
+    grid-template-columns: repeat(3,1fr);
+    display: flex;
+    gap: 2px;
+
+}
+.Portfolio_grid{
+    margin-top: 2rem;
+    display: grid;
+    gap: 1rem;
+    
+}
+.Portfolio_card{
+    overflow: hidden;
+    border-radius: 2rem;
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.2);
+    height:max-content;
+    
+}
+.Portfolio_card img{
+    transition: .5s;
+}
+.Portfolio_card:hover img{
+    transform: scale(1.1);
+}
+.portfolio_banner{
+    margin-top: 2rem;
+    padding: 2rem;
+    display: grid;
+    gap: 2rem;
+    text-align: center;
+    background-image: var(--gradient-2);
+    border-radius: 1rem;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+}
+.portfolio_banner_card span{
+display: inline-block;
+margin-bottom: 0.5rem;
+font-size: 1.5rem;
+}
+.portfolio_banner_card h4{
+font-size: 1.2rem;
+font-weight: 600;
+}
+.portfolio_banner_card p{
+    font-weight: 500;
+}
+
+@media(width > 576px){
+   .Service_grid{
+    grid-template-columns: repeat(2, 1fr);
+   } 
+}
+.Portfolio_grid{
+    grid-template-columns: repeat((2,1fr));
+}
+.Portfolio_banner{
+    grid-template-columns: repeat(2,1fr);
+    text-align: left;
+}
+.contact_container{
+    text-align: center;
+}
+.contact_container.logo{
+margin-bottom: 1rem;
+}
+.contact_socials{
+    margin-top: 2rem;
+    display:flex ;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    flex-wrap:wrap ;
+
+}
+.contact_socials a{
+    padding: 7px,10px;
+    font-size: 1.5rem;
+    color: var(--white);
+    background: rgba(255,255,255,.2);
+    border-radius: 100%;
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.2);
+    transition: .3s;
+}
+.contact_socials a:hover{
+    background: var(--gradient-2);
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.2);
+}
+.footer{
+    padding: 1rem;
+    font-size: .9rem;
+    color: var(--extra-light);
+    text-align: center;
+}
+@media(width > 768px){
+    nav{
+        padding: 2rem;
+        position: static;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .nav_bar{
+        padding: 0;
+        background-image: none;
+ }
+ .nav_menu_btn{
+    display: none;
+ }
+ .nav_links{
+    padding: 0;
+    width: unset;
+    position:static ;
+    transform: none;
+    flex-direction: row;
+    background-image: none;
+ }
+ .nav_links a:hover{
+    color: var(--secondary-color);
+     }
+     .nav_links li:last-child{
+        display: none;
+     }
+     .btn_large{
+        display: flex;
+     }
+     .header_container{
+        padding-top: 5rem;
+        grid-template-columns: repeat(4,1fr);
+        align-items: center;
+     }
+     .header_image{
+        grid-area: 1/3/2/5;
+
+     }
+     .header_image img{
+        margin-inline-start: unset;
+
+     }
+     .header_content{
+        grid-area: 1/1/2/4;
+        text-align: left;
+     }
+     .header_content h1{
+        font-size: 6rem;
+        line-height: 6rem;
+        text-align: left;
+     }
+     .header_content.section_description{
+        text-align: left;
+        margin-inline-start: unset;
+     }
+     
+
+     }
+     span{
+        display: block;
+     }
+     .Portfolio_container :is(.section_header,.section_description){
+        text-align: left;
+        margin-inline-start: unset;
+     }
+    .Portfolio_grid{
+    grid-template-columns: repeat(3,1fr);
+    }
+    .Portfolio_banner{
+    grid-template-columns: repeat(3,1fr);
+}
+     .Service_card{
+        padding: 2rem 1rem;
+        text-align: center;
+        background-image: var(--gradient-2);
+        border-radius: 1rem;
+        box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+       
+        
+     }
+     .Service_card span{
+        display: inline-block;
+        margin-bottom: 1rem;
+        font-size: 2rem;
+     }
+     .Service_card h4{
+        margin-bottom: 1rem;
+        font-size: 1.2rem;
+        font-weight: 700;
+        
+
+     }
+     .Service_card p{
+        color: var(--extra-light);
+        line-height: 2rem;
+     }
+
+
+body{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.im{
+    width:400px;
+    height: fit-content;
+}
+
+
+.....main.js.....
+const navLinks=document.getElementById("nav-links");
+const menuBtn=document.getElementById("menu-btn");
+const menuBtnIcon =menuBtn.querySelector("i");
+
+menuBtn.addEventListener("click",(e) =>{
+    navLinks.classList.toggle("open")
+    const isopen =navLinks.classList.contains("open")
+    menuBtnIcon.setAttribute(
+        "class",
+    isopen ? "ri-close-line":"ri-menu-3-line"
+);
+});
+navLinks.addEventListener("click",(e) =>{
+    navLinks.classList.remove("open");
+    menuBtnIcon.setAttribute("class","ri-menu-3-line");
+});
+const scrollRevealOption = {
+distance:"50px",
+origin:"bottom",
+duration:1000,
+};
+//header container
+scrollReveal().reveal(".header_content h1",{
+    ...scrollRevealOption,
+});
+
+scrollReveal().reveal(".header_content .section_description",{
+    ...scrollRevealOption,
+    delay:500,
+});
+
+scrollReveal().reveal(".header_content .section_btn",{
+    ...scrollRevealOption,
+    delay:1000,
+});
+//about container
+scrollReveal().reveal(".about_content.section_header",{
+    ...scrollRevealOption,
+
+});
+
+scrollReveal().reveal(".about_content.section_description",{
+    ...scrollRevealOption,
+    delay:500
+
+});
+
+scrollReveal().reveal(".about_content.about_btn",{
+    ...scrollRevealOption,
+    delay:1000,
+
+});
+//service container
+scrollReveal().reveal(".service_card",{
+    ...scrollRevealOption,
+    interval:500,
+});
+//portfolio container
+scrollReveal().reveal(".portfolio_card",{
+    duration:1000,interval:500,
+}
+);
+
+/* scroll reveal */
+ScrollReveal({
+    reset: true,
+    
+    distance: '80px',
+    duration: 2000,
+    delay: 200,
+  });
+  
+  ScrollReveal().reveal('.home-content, .heading', { origin: 'top' });
+  ScrollReveal().reveal('.home-img, .services-container, .porfolio-box, .contact-form', { origin: 'bottom' });
+  ScrollReveal().reveal('.home-content h1, .about-img', { origin: 'left' });
+  ScrollReveal().reveal('.home-content p, .about-content', { origin: 'right' });
+const typed = new Typed('.multiple-text', {
+    strings: ['Frontend Developer', 'Frontend Developer', 'Frontend Developer'],
+    typeSpeed: 100,
+    backSpeed: 100,
+    backDelay: 1000,
+    loop: true
+  });
